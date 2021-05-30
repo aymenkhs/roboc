@@ -1,4 +1,4 @@
-this project is small game I've made when learning python the principle is simple you controle it's a multiplayer game when you controle a player in a maze, and it's amazing.
+this project is small game I've made when learning python the principle is simple you controle it's a multiplayer game when you controle a player in a maze.
 
 # How to run it
 1. you need to run the server for that just running the file "serveur_roboc.py"
